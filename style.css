@@ -19,6 +19,7 @@ body{
 img{
   border-radius: 10px;
   width: 300px;
+  position: relative;
 }
 .card{
   width: 300px;
